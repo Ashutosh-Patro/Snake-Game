@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(74, 120, 246);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.overgame {
+    color: black;
+    display: none;
+    font-size: 100px;
+}
+
+.header {
+    text-align: center;
+    color: azure;
+}
